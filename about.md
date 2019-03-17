@@ -4,15 +4,14 @@ title: About
 permalink: /about/
 ---
 
-The Society for Early Scottish Culture was founded in early 2019. It is enthusiastically
-dedicated to the objective of perpetuating and popularizing Scottish culture
-from before about the 1820s. Usually music and poetry, but we're not super picky.
+The Society exists to deepen our understanding of early Scottish culture—the music, literature, songs, dance, and other arts of
+pre-Victorian Scotland—and to share it with the community at large. It was founded in Chicago in 2019 and is currently
+seeking incorporation and 501(c)(3) status.
 
+## Inaugural Board
 
-## Board
-
-* Tim Macdonald (Chairperson)
-* Emily Nott (Secretary)
-* Rupert Deese (Treasurer)
-* Jeremy Ward (Development)
+* [Tim Macdonald](http://www.tsmacdonald.com) (Chairperson)
+* [Emily Nott](https://www.emilynottmusic.com/) (Secretary)
+* [Rupert Deese](http://www.d2ese.com/) (Treasurer)
+* [Jeremy Ward](http://timandjeremy.com/) (Development)
 * Luke Bretscher (Communications)

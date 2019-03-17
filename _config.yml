@@ -40,6 +40,16 @@ defaults:
     values:
       layout: "page"
 
+header_pages:
+  - about.md
+  - projects/fiddle-camp.md
+  - projects/reel-dancers.md
+  - projects/gow-sessions.md
+  - projects/journal.md
+  - donate.md
+  - contact.md
+
+
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
