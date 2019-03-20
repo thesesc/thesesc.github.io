@@ -37,6 +37,10 @@ We also gratefully accept *pro bono* help from certain types of professionals. [
 
 * Video and/or audio production
 
+* Graphic design
+
+* Photography
+
 * Antique document conservation and digitization
 
 
