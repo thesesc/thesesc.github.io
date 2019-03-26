@@ -25,10 +25,8 @@ url: "thesesc.org" # the base hostname & protocol for your site, e.g. http://exa
 markdown: kramdown
 #theme: minima
 theme: alembic-jekyll-theme
-#remote-theme: daviddarnes/alembic
 plugins:
   - jekyll-feed
-#  - jekyll-remote-theme
 
 defaults:
   -
