@@ -88,8 +88,6 @@ GEM
     multi_json (1.13.1)
     nokogiri (1.10.2)
       mini_portile2 (~> 2.4.0)
-    nokogiri (1.10.2-x64-mingw32)
-      mini_portile2 (~> 2.4.0)
     pathutil (0.16.2)
       forwardable-extended (~> 2.6)
     public_suffix (3.0.3)
