@@ -10,8 +10,8 @@ seeking incorporation and 501(c)(3) status.
 
 ## Inaugural Board
 
-* [Tim Macdonald](http://www.tsmacdonald.com) (Chairperson) <!-- El Presidente -->
-* [Emily Nott](https://www.emilynottmusic.com/) (Secretary) <!-- THE KING -->
-* [Rupert Deese](http://www.d2ese.com/) (Treasurer) <!-- NASA -->
-* [Jeremy Ward](http://timandjeremy.com/) (Development) <!-- J-Dawg -->
-* Luke Bretscher (Communications) <!-- First Web Lord -->
+* [Tim Macdonald](http://www.tsmacdonald.com) (Chairperson)
+* [Emily Nott](https://www.emilynottmusic.com/) (Secretary)
+* [Rupert Deese](http://www.d2ese.com/) (Treasurer)
+* [Jeremy Ward](http://timandjeremy.com/) (Development)
+* Luke Bretscher (Communications)

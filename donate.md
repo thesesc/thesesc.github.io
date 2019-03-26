@@ -12,7 +12,7 @@ As a non-profit, the Society depends on contributions from people like you—tha
   <blockquote>
   Tim Macdonald (Kin) <br>
   55 W Monroe St #2200 <br>
-  Chicago, IL 60603
+  Chicago, IL 60603"
   </blockquote>
 
 * Online using a credit card:
