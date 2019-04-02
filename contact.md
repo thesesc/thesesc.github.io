@@ -4,21 +4,18 @@ title: Contact
 permalink: /contact/
 ---
 
-<form action="https://formspree.io/{{ site.email }}" method="POST">
-  <div>
+<form action="https://formspree.io/{{ site.email }}" method="POST" class="form">
+  <div class="form-group">
     <label for="name">Name</label>
-    <input type="text" name="name" id="name" />
+    <input type="text" name="name" id="name" class="form-control" required>
   </div>
-  <div>
+  <div class="form-group">
     <label for="email">Email</label>
-    <input type="text" name="_replyto" id="email" />
+    <input type="email" name="_replyto" id="email" class="form-control" required>
   </div>
-  <div>
+  <div class="form-group">
     <label for="message">Message</label>
-    <textarea name="message" id="message" rows="6"></textarea>
+    <textarea name="message" id="message" rows="6" class="form-control"></textarea>
   </div>
-  <ul>
-    <li><input type="submit" value="Send Message" /></li>
-    <li><input type="reset" value="Clear" /></li>
-  </ul>
+  <button type="submit" class="btn btn-outline-dark">Send Message</button>
 </form>

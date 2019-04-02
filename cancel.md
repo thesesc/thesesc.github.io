@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: full-width
 title: Payment Canceled
 permalink: /cancel/
 ---
