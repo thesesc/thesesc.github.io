@@ -5,8 +5,8 @@ docs:
   url: /
 
 - title: Projects
-  sublinks: 
-  
+  sublinks:
+
   - title: Fiddle Camp
     url: projects/fiddle-camp
 
@@ -16,7 +16,7 @@ docs:
   - title: Journal of the SESC
     url: projects/journal
 
-  - title: Chicago Reel Dancers
+  - title: Scots Reel Dancers
     url: projects/reel-dancing
 
 - title: About
