@@ -11,7 +11,8 @@ Students should have moderate experience playing any style of music on the violi
 (or another acoustic instrument—it's open to all musicians) and should have
 interest in (but not necessarily experience with) Scottish music.
 
-Details for the 2019 session will be announced shortly—enter your email below to be notified when registration details are announced:
+The 2019 session will take place on August 24 and 25, and will again be in Heritage Hall at The Scottish Home. Additional details will be
+announced shortly—enter your email below to be notified when registration details are announced:
 
 <form action="https://formspree.io/tim@tsmacdonald.com" method="POST">
   <input type="hidden" name="subject" value="Interested in fiddle camp">
