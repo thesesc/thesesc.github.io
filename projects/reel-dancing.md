@@ -4,6 +4,10 @@ title: '"Foot it!"—Scottish dancing'
 permalink: /projects/dancing
 ---
 
+<figure class="image right">
+  <img src="/assets/img/monymusk.jpg">
+</figure>
+
 The best of modern contra meets rediscovered Scottish dances in a cello-powered, fiddle-fueled dancestravaganza.
 
 Come as you are—no experience or partner necessary. Wear comfortable clothes and shoes (dance shoes encouraged). The calling will be gender-free.
