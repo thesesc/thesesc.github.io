@@ -15,3 +15,21 @@ seeking incorporation and 501(c)(3) status.
 * [Rupert Deese](http://www.d2ese.com/) (Treasurer) <!-- NASA -->
 * [Jeremy Ward](http://timandjeremy.com/) (Development) <!-- J-Dawg -->
 * Luke Bretscher (Communications) <!-- First Web Lord -->
+
+## Sponsors
+
+Many thanks to the following people for their generous support!
+
+* Randi Woodworth
+
+* Gail H.
+
+* Dr. Michael Nicholsen
+
+* Luke Bretscher
+
+* Ross Flowers
+
+* Yin Chan
+
+* Alastair Thompson
