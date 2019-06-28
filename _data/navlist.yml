@@ -1,4 +1,3 @@
-docs_list_title: Rakkety List
 docs:
 
 - title: Home
@@ -18,6 +17,9 @@ docs:
 
   - title: Dancing
     url: projects/dancing
+
+  - title: Upcoming…
+    url: projects/upcoming
 
 - title: About
   url: about

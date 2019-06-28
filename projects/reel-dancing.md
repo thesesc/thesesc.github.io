@@ -21,7 +21,7 @@ Schedule:
 Location: "<a href="https://lab3450.squarespace.com/">The Lab on Lake</a>" (3450 W Lake St); second floor. Free street parking; steps from the Green Line and several buses.
 
 
-Upcoming dates:
+Spring 2019 dates:
 
 * April 25
 
@@ -31,12 +31,16 @@ Upcoming dates:
 
 * May 16
 
+Future dates:
+
+* We expect to have a monthly session beginning in September 2019…details to follow shortly!
+
 Admission is $5 for students and seniors and a sliding scale from $10-30 for others.
 
 <hr>
 
-*We strive to create a safe and inclusive space for all dancers, and—while we develop our own policy—ask everyone to
+*We strive to create a safe and inclusive space for all people, and—while we develop our own policy—ask everyone to
 abide by [the etiquette policy defined by the Chicago Barn Dance
 Company](http://www.chicagobarndance.org/our-etiquette-policy/). Anyone with concerns or feedback should [contact a board
-member](/contact) or the caller.*
+member](/contact) or the dance caller.*
 
