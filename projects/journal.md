@@ -4,12 +4,9 @@ title: Journal of the Society for Early Scottish Culture
 permalink: /projects/journal
 ---
 
-The SESC will publish a peer-reviewed journal on anything related to the early Scottish arts. A CFP will be released soon. Enter your email address below to be notified when the CFP is released:
+<figure class="image centered">
+  <img src="/assets/img/research.png">
+</figure>
 
-<form action="https://formspree.io/tim@tsmacdonald.com" method="POST">
-  <input type="hidden" name="subject" value="Interested in the journal CFP">
-  <div class="form-group">
-    <input type="email" name="_replyto" placeholder="Enter your email..." class="form-control limited-width" required>
-  </div>
-  <button type="submit" class="btn btn-outline-dark">Submit</button>
-</form>
+The SESC will publish a peer-reviewed journal on anything related to the early
+Scottish arts and is currently accepting submissions. A full CFP can be found [here](/assets/docs/cfp-2019.pdf).
