@@ -9,6 +9,8 @@ intermediate fiddlers, led by [Tim Macdonald](http://tsmacdonald.com/) (fiddle),
 [Jeremy Ward](http://timandjeremy.com/) (cello/accompaniment/beginners),
 and [Meg Dedolph](https://www.linkedin.com/in/meg-dedolph-7b9292b/) (dance).
 
+The 2019 session will take place on August 24 and 25 at The Scottish Home in
+North Riverside, IL.
 
 Students will learn about the basic types of Scottish tune (strathspey, jig,
 reel, slow air, march, and hornpipe), how to make dance music danceable and
