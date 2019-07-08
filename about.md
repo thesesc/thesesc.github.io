@@ -4,9 +4,10 @@ title: About
 permalink: /about/
 ---
 
-The Society exists to deepen our understanding of early Scottish culture—the music, literature, songs, dance, and other arts of
-pre-Victorian Scotland—and to share it with the community at large. It was founded in Chicago in 2019 and is currently
-seeking incorporation and 501(c)(3) status.
+The Society exists to deepen our understanding of early Scottish culture—the
+music, literature, songs, dance, and other arts of pre-Victorian Scotland—and
+to share it with the community at large. It was founded in Chicago in 2018
+and is currently seeking incorporation and 501(c)(3) status.
 
 ## Inaugural Board
 

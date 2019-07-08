@@ -8,5 +8,5 @@ permalink: /projects/journal
   <img src="/assets/img/research.png">
 </figure>
 
-The SESC will publish a peer-reviewed journal on anything related to the early
+The SESC will publish a peer-reviewed journal on all topics related to the early
 Scottish arts and is currently accepting submissions. A full CFP can be found [here](/assets/docs/cfp-2019.pdf).

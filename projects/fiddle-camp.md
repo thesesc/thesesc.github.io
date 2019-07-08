@@ -9,7 +9,7 @@ intermediate fiddlers, led by [Tim Macdonald](http://tsmacdonald.com/) (fiddle),
 [Jeremy Ward](http://timandjeremy.com/) (cello/accompaniment/beginners),
 and [Meg Dedolph](https://www.linkedin.com/in/meg-dedolph-7b9292b/) (dance).
 
-The 2019 session will take place on August 24 and 25 at The Scottish Home in
+The 2019 session will take place on August 24 and 25 at the Scottish Home in
 North Riverside, IL.
 
 Students will learn about the basic types of Scottish tune (strathspey, jig,
@@ -22,7 +22,7 @@ developed!).
 
 Students of any age (past participants have been as young as 6 and as old as
 70-something) who play any fiddling-compatible acoustic instrument are invited
-to attend (violin family instruments, guitar, piano, flute, oboe, squeezebox,
+to attend (violin-family instruments, guitar, piano, flute, oboe, squeezebox,
 etc.). Basic familiarity with reading music and "knowing where the notes are"
 is very helpful, but no prior experience with any fiddling tradition is
 required.
@@ -35,9 +35,9 @@ concert for the residents of Caledonia Senior Living.
 Tuition is $150/student (family discount: $75 for a second child, $25 each for
 a third+ child). Limited need-based financial aid is available. To qualify,
 send a brief message explaining your situation and desired level of assistance.
-(If you would like to contribute to the scholarship fund, please use one of the
-options [here](/donate) and include a note earmarking the money for
-scholarships. Thank you!). There is a $25 discount for each first-time student
+*(If you would like to contribute to the scholarship fund, please use one of*
+*the options [here](/donate) and include a note earmarking the money for*
+*scholarships. Thank you!)* There is a $25 discount for each first-time student
 you refer, so be sure to invite your friends!
 
 **To register**, please fill out [this form](https://forms.gle/owk5ZJ6bLTvbhdC96).
