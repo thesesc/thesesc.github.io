@@ -82,10 +82,35 @@ concert for the residents of Caledonia Senior Living.
   </tr>
 </table>
 
+# Location
+
+"Heritage Hall" at [Caledonia Senior Living](https://www.caledoniaseniorliving.org/) (formerly known as The Scottish Home).
+
+2800 Des Plaines Avenue, North Riverside, IL
+
+Any staffmember will be able to point you in the right direction once you enter the main facility.
+
 # Tuition
 
 Thanks to the generosity of scholarship donors, the number of students already enrolled, and the low overhead of camp,
 tuition is *by donation*. Comparable workshops tend to charge about $150, but we are excited to say that it is a
-suggested—not required—fee. No deposit is necessary; please bring a cash or check (to "Tim Macdonald") to camp.
+suggested—not required—fee. We leave it to you to determine your need for financial aid. No deposit is necessary; please
+bring cash or a check (to "Tim Macdonald") to camp.
+
+# Sheet Music
+
+This year we'll be using <u><a href="/assets/docs/chicago-scottish-fiddle-camp-2019.pdf">this set of tunes</a></u>. Please bring a printed
+copy to camp. Cellists and other harmony players: a chorded version is forthcoming.
+
+# Packing List
+
+* Your instrument!
+* A music stand
+* The sheet music
+* A packed lunch
+* Comfortable shoes for dancing
+* A good attitude!
+
+# Registration
 
 **To register**, please fill out <u><a href="https://forms.gle/owk5ZJ6bLTvbhdC96">this form</a></u>.
