@@ -9,6 +9,8 @@ music, literature, songs, dance, and other arts of pre-Victorian Scotland—and
 to share it with the community at large. It was founded in Chicago in 2018
 and is currently seeking incorporation and 501(c)(3) status.
 
+[Follow us on Facebook for more content!](https://www.facebook.com/TheSESC/)
+
 ## Inaugural Board
 
 * [Tim Macdonald](http://www.tsmacdonald.com) (Chairperson) <!-- El Presidente -->
