@@ -100,7 +100,7 @@ bring cash or a check (to "Tim Macdonald") to camp.
 # Sheet Music
 
 This year we'll be using <u><a href="/assets/docs/chicago-scottish-fiddle-camp-2019.pdf">this set of tunes</a></u>. Please bring a printed
-copy to camp.
+copy to camp. Cello players should use <u><a href="/assets/docs/chicago-scottish-fiddle-camp-2019.pdf">this version</a></u>.
 
 # Packing List
 
