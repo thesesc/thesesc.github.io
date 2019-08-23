@@ -11,12 +11,11 @@ and is currently seeking incorporation and 501(c)(3) status.
 
 [Follow us on Facebook for more content!](https://www.facebook.com/TheSESC/)
 
-## Inaugural Board
+## Board of Directors
 
 * [Tim Macdonald](http://www.tsmacdonald.com) (Chairperson) <!-- El Presidente -->
-* [Emily Nott](https://www.emilynottmusic.com/) (Secretary) <!-- THE KING -->
 * [Rupert Deese](http://www.d2ese.com/) (Treasurer) <!-- NASA -->
-* [Jeremy Ward](http://timandjeremy.com/) (Development) <!-- J-Dawg -->
+* [Jeremy Ward](http://timandjeremy.com/) (Secretary) <!-- J-Dawg -->
 * Luke Bretscher (Communications) <!-- First Web Lord -->
 
 ## Sponsors
