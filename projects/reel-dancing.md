@@ -18,24 +18,15 @@ Schedule:
 * 7:25: beginner's introduction to contra
 * 7:35-9:45: the dance!
 
-Location: "<a href="https://lab3450.squarespace.com/">The Lab on Lake</a>" (3450 W Lake St); second floor. Free street parking; steps from the Green Line and several buses.
+Fall 2019 dates:
 
+* September 19: Galway Arms (2442 N Clark St)
 
-Spring 2019 dates:
+* October 3: TBD
 
-* April 25
+* November 14: TBD
 
-* May 2
-
-* May 9
-
-* May 16
-
-Future dates:
-
-* We expect to have a monthly session beginning in September 2019…details to follow shortly!
-
-Admission is $5 for students and seniors and a sliding scale from $10-30 for others.
+* December 12: TBD
 
 <hr>
 
