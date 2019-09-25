@@ -12,21 +12,15 @@ The best of modern contra meets rediscovered Scottish dances in a cello-powered,
 
 Come as you are—no experience or partner necessary. Wear comfortable clothes and shoes (dance shoes encouraged). The calling will be gender-free.
 
-Schedule:
-
-* 7PM: *optional* lesson on Highland step dancing
-* 7:25: beginner's introduction to contra
-* 7:35-9:45: the dance!
-
 Fall 2019 dates:
 
 * September 19: Galway Arms (2442 N Clark St)
 
-* October 3: TBD
-
 * November 14: TBD
 
 * December 12: TBD
+
+Dances run from 7-10PM, and admission is by donation.
 
 <hr>
 
