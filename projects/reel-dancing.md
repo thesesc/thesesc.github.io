@@ -16,7 +16,7 @@ Fall 2019 dates:
 
 * September 19: Galway Arms (2442 N Clark St)
 
-* November 14: TBD
+* November 14: MAGE (1164 N. Milwaukee Avenue)
 
 * December 12: TBD
 
